@@ -1,2 +1,8 @@
-# Bank_Management_System_00KC
-A bank management system project encompasses a wide range of functionalities aimed at streamlining banking operations, improving customer experience, and ensuring security. By following a structured development approach, this project can significantly enhance the efficiency and reliability of banking services.
+# Basic-Banking-System
+
+
+  
+1. Fork the respo (Give ⭐ incase you like the work)
+2. Clone the repo in your local machine.
+3. Create the database "dbrohit" or any other named (change the settings in spin.php incase you create other named database)
+4. Import the tables by using "dbrohit.sql"
